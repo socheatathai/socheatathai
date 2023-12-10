@@ -1,13 +1,14 @@
 
 
 <div>
-<div>
+<div style="margin: 0 auto; text-align: center;">
   
-# Hi, I'm Cheata <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
+# hi there I'm Cheata <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 
 
-### I studying at Rupp
-  
+### I studying at ROYAL UNIVERSITY OF PHNOM PENH 
+### Years 4 at university
+
 ### Languages and Tools
 
   
@@ -32,6 +33,13 @@
 <a href="https://github.com/remcohalman/github-readme-stats">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=socheatathai&layout=compact&theme=vision-friendly-dark" />
 </a>
+
+<br>
+<br>
+
+<img align="left" alt="Visual Studio Code" width="500px" heigh="250px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="padding-right:10px;" />
+
+
 <br>
 <br>
 </div>
