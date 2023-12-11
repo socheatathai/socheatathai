@@ -6,7 +6,8 @@
 # hi there I'm Cheata <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 
 
-### I studying at ROYAL UNIVERSITY OF PHNOM PENH 
+### I studying at ROYAL UNIVERSITY OF PHNOM PENH [![Logo](https://i.imgur.com/UyGOhnf.png)](https://www.rupp.edu.kh/)
+
 ### Years 4 at university
 
 ### Languages and Tools
@@ -36,10 +37,12 @@
 
 <br>
 <br>
-
-<img align="left" alt="Visual Studio Code" width="500px" heigh="250px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="padding-right:10px;" />
-
-
+This my Facebook Profile " Socheata Thai "
+<br>
+<br>
+<a href="https://www.facebook.com/socheata.thai.007">
+<img align="left" alt="Visual Studio Code" width="250px" heigh="250px"  src="https://scontent.fpnh24-1.fna.fbcdn.net/v/t39.30808-6/385898163_1676745662817097_5478073161435736285_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeEriab0ataAJ7_M_OEIQFyRmQsZjM6sRRyZCxmMzqxFHNerm2iZOoguA7Kx6qffukB2eLPZ3z9_MDWLrIBR5tc9&_nc_ohc=r5nMjJtr3PIAX_0E_b2&_nc_ht=scontent.fpnh24-1.fna&oh=00_AfC1VHQaRjPpK27J_PgPVwUtxF6tYTxrbl00Ur_EJXX_wQ&oe=657B7E0E" style="padding-right:10px;" />
+</a>
 <br>
 <br>
 </div>
