@@ -47,7 +47,10 @@
 <img   alt="Telegram_logo.svg" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"  /></a>
 <a href="https://www.facebook.com/socheata.thai.007">
 <img   alt="Facebook_Logo" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png"  /></a>
+<a href="https://www.linkedin.com/in/socheata-thai-586182289">
+<img   alt="LinkeIn" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
 <br>
 <br>
 </div>
 </div>
+
