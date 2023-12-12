@@ -1,33 +1,38 @@
 
 
 <div>
-<div style="margin: 0 auto; text-align: center;">
-  
-# hi there I'm Cheata <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
+<div align="center">
 
-
-### I studying at ROYAL UNIVERSITY OF PHNOM PENH [![Logo](https://i.imgur.com/UyGOhnf.png)](https://www.rupp.edu.kh/)
-
-### Years 4 at university
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Cheata+...!;" />
+</h1>
+  <p>
+    I am studying at The ROYAL UNIVERSITY OF PHNOM PENH.<br>
+    I am in year four at university.<br><br>
+    <a href="https://www.rupp.edu.kh">
+      <img  alt="Visual Studio Code" width="50px" src="https://i.imgur.com/UyGOhnf.png" style="padding:30px 30px;" />
+    </a>
+    <br>
+  </p> 
 
 ### Languages and Tools
-
   
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="NestJs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="NextJs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px; fill:#fff;" />
-<img align="left" alt="Postgresql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<br>
+<img  alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding:10px 10px;" />
+<img  alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding:10px 10px;"/>
+<img  alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding:10px 10px;" />
+<img  alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding:10px 10px;" />
+<img  alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding:10px 10px;" />
+<img  alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding:10px 10px;" />
+<img  alt="NestJs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" style="padding:10px 10px;" />
+<img  alt="NextJs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding:10px 10px; fill:#fff;" />
+<img  alt="Postgresql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding:10px 10px;" />
+<img  alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding:10px 10px;"/>
 
 
-### 📈 Github Stats:
+
+
+### 📈 Github Profile :
 <a href="https://github.com/socheatathai">
 </a>
 <br>
@@ -37,12 +42,11 @@
 
 <br>
 <br>
-This my Facebook Profile " Socheata Thai "
-<br>
-<br>
+<h1>Contact Me By </h1>
+<a href="https://t.me/socheata_thai">
+<img   alt="Telegram_logo.svg" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"  /></a>
 <a href="https://www.facebook.com/socheata.thai.007">
-<img align="left" alt="Visual Studio Code" width="250px" heigh="250px"  src="https://scontent.fpnh24-1.fna.fbcdn.net/v/t39.30808-6/385898163_1676745662817097_5478073161435736285_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeEriab0ataAJ7_M_OEIQFyRmQsZjM6sRRyZCxmMzqxFHNerm2iZOoguA7Kx6qffukB2eLPZ3z9_MDWLrIBR5tc9&_nc_ohc=r5nMjJtr3PIAX_0E_b2&_nc_ht=scontent.fpnh24-1.fna&oh=00_AfC1VHQaRjPpK27J_PgPVwUtxF6tYTxrbl00Ur_EJXX_wQ&oe=657B7E0E" style="padding-right:10px;" />
-</a>
+<img   alt="Facebook_Logo" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png"  /></a>
 <br>
 <br>
 </div>
