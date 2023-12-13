@@ -8,7 +8,7 @@
 </h1>
   <p>
     I am studying at The ROYAL UNIVERSITY OF PHNOM PENH.<br>
-    I am in year four at university.<br><br>
+    I am in year Fourth at university. My major is Computer Science.  <br> <br>
     <a href="https://www.rupp.edu.kh">
       <img  alt="Visual Studio Code" width="50px" src="https://i.imgur.com/UyGOhnf.png" style="padding:30px 30px;" />
     </a>
