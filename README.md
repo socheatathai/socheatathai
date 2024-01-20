@@ -7,8 +7,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Cheata+...!;" />
 </h1>
   <p>
-    I am studying at The ROYAL UNIVERSITY OF PHNOM PENH.<br>
-    I am in year Fourth at university. My major is Computer Science.  <br> <br>
+    I am studying at THE ROYAL UNIVERSITY OF PHNOM PENH.<br>
+    I am in my fourth year at university. My major is Computer Science.  <br> <br>
     <a href="https://www.rupp.edu.kh">
       <img  alt="Visual Studio Code" width="50px" src="https://i.imgur.com/UyGOhnf.png" style="padding:30px 30px;" />
     </a>
