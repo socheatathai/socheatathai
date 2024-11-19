@@ -22,7 +22,7 @@
 <img  alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding:10px 10px;" />
 <img  alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding:10px 10px;" />
 <img  alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding:10px 10px;" />
-<img  alt="NestJs" width="26px" src="https://nestjs.com/logo-small-gradient.76616405.svg" style="padding:10px 10px;" />
+<img  alt="NestJs" width="26px" src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png" style="padding:10px 10px;" />
 <img  alt="NextJs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding:10px 10px; fill:#fff;" />
 <img  alt="Postgresql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding:10px 10px;" />
 <img  alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
