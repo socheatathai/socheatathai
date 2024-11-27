@@ -31,7 +31,7 @@
 
 
 
-![](https://visitcount.itsvg.in/api?id=socheatathai&label=Profile%20Views&color=11&icon=0&pretty=false)
+![](https://visitcount.itsvg.in/api?id=socheatathai&label=Profile%20Views&color=12&icon=0&pretty=false)
 
 ### 📈 Github Profile :
 <a href="https://github.com/socheatathai">
