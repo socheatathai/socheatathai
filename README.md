@@ -15,6 +15,7 @@
     <br>
   </p> 
 
+
 ### Languages and Tools
 <img  alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding:10px 10px;" />
 <img  alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding:10px 10px;"/>
@@ -30,6 +31,7 @@
 
 
 
+![](https://visitcount.itsvg.in/api?id=socheatathai&label=Profile%20Views&color=11&icon=0&pretty=false)
 
 ### 📈 Github Profile :
 <a href="https://github.com/socheatathai">
