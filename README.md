@@ -26,7 +26,7 @@
 <img  alt="Vue" width="26px" src="https://v2.vuejs.org/images/logo.svg" style="padding:10px 10px;" />
 <img  alt="NextJs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding:10px 10px; fill:#fff;" />
 <img  alt="NuxtJs" width="26px" src="https://raw.githubusercontent.com/nuxt/modules/main/icons/nuxt.svg" style="padding:10px 10px; fill:#fff;" />
-<img  alt="NestJs" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1242px-NestJS.svg.png?20221211225055" style="padding:10px 10px;" />
+<img  alt="NestJs" width="26px" src="https://nestjs.com/logo-small-gradient.0ed287ce.svg" style="padding:10px 10px;" />
 <img  alt="Postgresql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding:10px 10px;" />
 <img  alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding:10px 10px;"/>
